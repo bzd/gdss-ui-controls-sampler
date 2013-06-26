@@ -1,3 +1,5 @@
+_version = 1.00;
+
 // ---------------------------------------------------------------------------------------------------
 // Story ID: 3 - Can enter text into a UI control.
 // Story ID: 5 - Can enter text into a UI control, and have it show up in the spreadsheet
